@@ -2,9 +2,9 @@
 layout: page
 title: Traffic Light Detection
 description: Real-time traffic light state classification for autonomous intersections.
+img: assets/img/traffic-light.jpeg
 importance: 7
 category: Featured ADAS Projects
-assets/img/traffic-light.jpeg
 ---
 
 An autonomous vision module dedicated to detecting and accurately classifying traffic light states (Red, Yellow, Green) in real-time.
