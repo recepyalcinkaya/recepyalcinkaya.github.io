@@ -471,6 +471,11 @@ ninja.data = [{
           description: "Interactive touch display interface for real-time ADAS monitoring.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_dashboard_ui/";
+            },},{id: "projects-blind-spot-monitoring-system",
+          title: 'Blind Spot Monitoring System',
+          description: "Multi-sensor fusion for real-time hazard detection in adjacent lanes.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_blind_spot/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
