@@ -6,7 +6,7 @@ importance: 1
 category: Featured ADAS Projects
 ---
 
-Real-time detection and classification of traffic signs, specifically optimized for distorted or partially obscured signs in dynamic environments. 
+Real-time detection and classification of traffic signs in dynamic environments. 
 
 Powered by custom-trained YOLO deep learning models. Successfully deployed on edge hardware (Raspberry Pi 5) to ensure high-speed inference without relying on cloud processing, allowing the vehicle to adapt to road rules instantly.
 
