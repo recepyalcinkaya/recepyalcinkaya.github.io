@@ -2,6 +2,7 @@
 layout: page
 title: Blind Spot Monitoring System
 description: Multi-sensor fusion for real-time hazard detection in adjacent lanes.
+img: assets/img/kor-nokta.jpg
 importance: 5
 category: Featured ADAS Projects
 ---
