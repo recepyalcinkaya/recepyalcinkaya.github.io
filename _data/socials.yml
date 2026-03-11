@@ -1,4 +1,4 @@
-cv_pdf: /assets/pdf/cv.pdf # Burası şimdilik kalsın, bir sonraki adımda kendi CV'ni yükleyeceğiz.
-email: receptalha0899@gmail.com # Buraya kendi e-postanı yaz
-github_username: recepyalcinkaya # GitHub kullanıcı adın
-linkedin_username: recepyalcinkaya # LinkedIn profil linkinin sonundaki adın
+email: receptalha0899@gmail.com
+github_username: recepyalcinkaya
+linkedin_username: recepyalcinkaya
+cv_pdf: /assets/pdf/cv.pdf
