@@ -8,7 +8,7 @@ category: Featured ADAS Projects
 
 A crucial safety mechanism designed to alert the driver of unseen obstacles or vehicles in adjacent lanes, heavily minimizing the risk of side collisions.
 
-This system fuses data from ultrasonic sensors and side-mounted USB cameras to continuously monitor the vehicle's blind zones. When a potential hazard is detected, it instantly triggers visual warnings on the central dashboard UI, showcasing effective sensor fusion and real-time data processing.
+This system fuses data from ultrasonic sensor to continuously monitor the vehicle’s blind zones. When a potential hazard is detected, it instantly triggers visual warnings on the central dashboard UI, showcasing effective sensor fusion and real-time data processing.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
