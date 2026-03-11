@@ -466,6 +466,11 @@ ninja.data = [{
           description: "Custom GPS routing and telemetry designed for TEKNOFEST races.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_racing_navigation/";
+            },},{id: "projects-vehicle-dashboard-ui",
+          title: 'Vehicle Dashboard UI',
+          description: "Interactive touch display interface for real-time ADAS monitoring.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_dashboard_ui/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
