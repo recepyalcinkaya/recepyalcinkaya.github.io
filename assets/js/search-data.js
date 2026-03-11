@@ -451,9 +451,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-traffic-sign-amp-light-recognition",
-          title: 'Traffic Sign &amp;amp; Light Recognition',
-          description: "Real-time detection optimized for edge hardware (Raspberry Pi 5).",
+          section: "News",},{id: "projects-traffic-sign-recognition",
+          title: 'Traffic Sign Recognition',
+          description: "Real-time traffic sign detection optimized for edge hardware (Raspberry Pi 5).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_traffic_sign/";
             },},{id: "projects-lane-tracking-system-lts",
