@@ -17,3 +17,5 @@ This centralized dashboard acts as the brain of the driver's visual feedback sys
         </div>
     </div>
 </div>
+
+<img src="/assets/img/Dashboard_UI.jpeg" alt="Vehicle Dashboard UI" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-top: 20px; display: block;">
