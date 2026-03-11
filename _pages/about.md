@@ -6,8 +6,8 @@ subtitle: Software & ADAS Engineer | Autonomous Vehicles & Edge AI
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # Fotoğrafın yuvarlak olmasını istersen bunu true yapabilirsin
+  image: recep_profil.jpeg
+  image_circular: true # Fotoğrafın yuvarlak olmasını istersen bunu true yapabilirsin
   more_info: >
     <p>Denizli, Turkey</p>
 
