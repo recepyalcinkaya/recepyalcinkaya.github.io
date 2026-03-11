@@ -2,6 +2,7 @@
 layout: page
 title: Lane Tracking System (LTS)
 description: Real-time lane detection and course correction using OpenCV.
+img: assets/img/serit-takip.png
 importance: 2
 category: Featured ADAS Projects
 ---
