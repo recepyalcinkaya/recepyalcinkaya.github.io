@@ -25,7 +25,7 @@ I currently serve as the Head of the Software Unit and the ADAS & Autonomous Sof
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
         <figure>
-            <img src="/assets/img/teknofest_sertifika.jpeg" class="img-fluid rounded z-depth-1" alt="TEKNOFEST Certificate" style="width: 100%; border-radius: 8px;">
+            <img src="/assets/img/teknofest_sertifika.jpg" class="img-fluid rounded z-depth-1" alt="TEKNOFEST Certificate" style="width: 100%; border-radius: 8px;">
         </figure>
     </div>
 </div>
