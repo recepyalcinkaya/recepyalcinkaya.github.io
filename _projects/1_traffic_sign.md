@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Traffic Sign & Light Recognition
-description: Real-time detection optimized for edge hardware (Raspberry Pi 5).
+title: Traffic Sign Recognition
+description: Real-time traffic sign detection optimized for edge hardware (Raspberry Pi 5).
 importance: 1
 category: Featured ADAS Projects
 ---
 
-Real-time detection and classification of traffic signs and lights, specifically optimized for distorted or partially obscured signs. 
+Real-time detection and classification of traffic signs, specifically optimized for distorted or partially obscured signs in dynamic environments. 
 
-Powered by custom-trained YOLO deep learning models. Successfully deployed on edge hardware (Raspberry Pi 5) to ensure high-speed inference without relying on cloud processing.
+Powered by custom-trained YOLO deep learning models. Successfully deployed on edge hardware (Raspberry Pi 5) to ensure high-speed inference without relying on cloud processing, allowing the vehicle to adapt to road rules instantly.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
