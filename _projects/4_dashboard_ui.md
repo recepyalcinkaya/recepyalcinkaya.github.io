@@ -2,6 +2,7 @@
 layout: page
 title: Vehicle Dashboard UI
 description: Interactive touch display interface for real-time ADAS monitoring.
+img: assets/img/Dashboard_ui.png
 importance: 4
 category: Featured ADAS Projects
 ---
