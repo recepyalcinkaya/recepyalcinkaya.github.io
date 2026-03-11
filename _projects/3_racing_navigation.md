@@ -10,10 +10,9 @@ A specialized navigation and telemetrics system tailored for the tight requireme
 
 This system integrates GPS modules via UART-USB connections to process real-time location data. It calculates optimal routing, waypoint tracking, and live telemetry, ensuring the vehicle maintains peak efficiency and precise positioning on the track.
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID?autoplay=1&mute=1&loop=1&playlist=YOUTUBE_VIDEO_ID" allow="autoplay; encrypted-media" allowfullscreen style="width:100%; aspect-ratio: 16/9; border:none; border-radius: 8px;"></iframe>
+<div class="row mt-3 justify-content-center">
+    <div class="col-sm-6 mt-3 mt-md-0"> <div class="embed-responsive">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ydIcvUomb6c?autoplay=1&mute=1&loop=1&playlist=ydIcvUomb6c" allow="autoplay; encrypted-media" allowfullscreen style="width:100%; aspect-ratio: 9/16; border:none; border-radius: 12px;"></iframe>
         </div>
     </div>
 </div>
