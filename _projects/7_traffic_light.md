@@ -10,4 +10,10 @@ An autonomous vision module dedicated to detecting and accurately classifying tr
 
 This system ensures the vehicle can safely navigate through intersections by processing live camera feeds using optimized deep learning algorithms.
 
-<img src="/assets/img/traffic_lights.png" alt="Traffic Light Detection" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-top: 20px; display: block;">
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/B1L5dQ9aMSI?autoplay=1&mute=1&loop=1&playlist=B1L5dQ9aMSI" allow="autoplay; encrypted-media" allowfullscreen style="width:100%; aspect-ratio: 16/9; border:none; border-radius: 8px;"></iframe>
+        </div>
+    </div>
+</div>
