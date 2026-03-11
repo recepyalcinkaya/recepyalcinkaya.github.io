@@ -476,6 +476,11 @@ ninja.data = [{
           description: "Multi-sensor fusion for real-time hazard detection in adjacent lanes.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_blind_spot/";
+            },},{id: "projects-rear-view-amp-collision-avoidance",
+          title: 'Rear-View &amp;amp; Collision Avoidance',
+          description: "Integrated rear monitoring system assisting in parking and reverse maneuvers.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_rear_view/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
