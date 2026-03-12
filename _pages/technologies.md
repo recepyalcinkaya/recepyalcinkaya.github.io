@@ -4,7 +4,7 @@ title: Technologies
 permalink: /technologies/
 nav: true
 nav_order: 3
-description: Hardware, software, and AI stack powering my ADAS & autonomous systems.
+description: Hardware, software, and AI stack powering my autonomous systems.
 ---
 
 ### 💻 Programming Languages
@@ -85,6 +85,7 @@ description: Hardware, software, and AI stack powering my ADAS & autonomous syst
 ---
 
 ### 📟 Single Board Computers & AI Accelerators
+*The core computing units executing real-time AI and autonomous navigation tasks.*
 
 <div class="row mt-4 mb-5">
     <div class="col-sm-6 col-md-4 text-center mb-4">
@@ -92,11 +93,13 @@ description: Hardware, software, and AI stack powering my ADAS & autonomous syst
         <h5>NVIDIA Jetson Xavier</h5>
         <p style="font-size: 0.9rem; color: gray;">High-Performance Edge AI</p>
     </div>
+
     <div class="col-sm-6 col-md-4 text-center mb-4">
-        <img src="https://placehold.co/300x200/png?text=Raspberry+Pi+5" alt="Raspberry Pi 5" class="img-fluid rounded z-depth-1" style="height: 150px; object-fit: cover; margin-bottom: 15px;">
+        <img src="/assets/img/raspberry.jpeg" alt="Raspberry Pi 5" class="img-fluid rounded z-depth-1" style="height: 150px; object-fit: cover; margin-bottom: 15px;">
         <h5>Raspberry Pi 5</h5>
         <p style="font-size: 0.9rem; color: gray;">Versatile SBC</p>
     </div>
+
     <div class="col-sm-6 col-md-4 text-center mb-4">
         <img src="https://placehold.co/300x200/png?text=Hailo+AI" alt="Hailo AI Accelerator" class="img-fluid rounded z-depth-1" style="height: 150px; object-fit: cover; margin-bottom: 15px;">
         <h5>Hailo AI Accelerator</h5>
@@ -111,19 +114,19 @@ description: Hardware, software, and AI stack powering my ADAS & autonomous syst
 
 <div class="row mt-4">
     <div class="col-sm-6 col-md-4 text-center mb-4">
-        <img src="https://placehold.co/300x200/png?text=UBLOX+GPS" alt="UBLOX NEO-M8N" class="img-fluid rounded z-depth-1" style="height: 150px; object-fit: cover; margin-bottom: 15px;">
+        <img src="/assets/img/gps-modul.jpeg" alt="UBLOX NEO-M8N" class="img-fluid rounded z-depth-1" style="height: 150px; object-fit: cover; margin-bottom: 15px;">
         <h5>UBLOX NEO-M8N</h5>
         <p style="font-size: 0.9rem; color: gray;">GNSS / GPS Module</p>
     </div>
 
     <div class="col-sm-6 col-md-4 text-center mb-4">
-        <img src="https://placehold.co/300x200/png?text=USB+Camera" alt="USB Camera" class="img-fluid rounded z-depth-1" style="height: 150px; object-fit: cover; margin-bottom: 15px;">
+        <img src="/assets/img/usb_camera.jpeg" alt="USB Camera" class="img-fluid rounded z-depth-1" style="height: 150px; object-fit: cover; margin-bottom: 15px;">
         <h5>USB Camera</h5>
         <p style="font-size: 0.9rem; color: gray;">Real-time Vision Input</p>
     </div>
 
     <div class="col-sm-6 col-md-4 text-center mb-4">
-        <img src="https://placehold.co/300x200/png?text=Touch+Display" alt="Touchscreen LCD" class="img-fluid rounded z-depth-1" style="height: 150px; object-fit: cover; margin-bottom: 15px;">
+        <img src="/assets/img/touchscreen.jpeg" alt="Touchscreen LCD" class="img-fluid rounded z-depth-1" style="height: 150px; object-fit: cover; margin-bottom: 15px;">
         <h5>Touchscreen LCD</h5>
         <p style="font-size: 0.9rem; color: gray;">Dashboard UI Interface</p>
     </div>
