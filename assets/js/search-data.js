@@ -416,7 +416,7 @@ ninja.data = [{
               window.location.href = "/projects/1_traffic_sign/";
             },},{id: "projects-lane-tracking-system-lts",
           title: 'Lane Tracking System (LTS)',
-          description: "Real-time lane detection and course correction using OpenCV.",
+          description: "Real-time lane detection using OpenCV.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_lane_tracking/";
             },},{id: "projects-racing-navigation-system",
