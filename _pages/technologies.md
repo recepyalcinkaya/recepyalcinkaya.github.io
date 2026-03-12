@@ -115,14 +115,16 @@ description: Hardware, software, and AI stack powering my ADAS & autonomous syst
         <h5>UBLOX NEO-M8N</h5>
         <p style="font-size: 0.9rem; color: gray;">GNSS / GPS Module</p>
     </div>
+
     <div class="col-sm-6 col-md-4 text-center mb-4">
-        <img src="https://placehold.co/300x200/png?text=GIF+Here" alt="Blind Spot Sensor" class="img-fluid rounded z-depth-1" style="height: 150px; object-fit: cover; margin-bottom: 15px;">
-        <h5>Blind Spot Sensor</h5>
-        <p style="font-size: 0.9rem; color: gray;">&nbsp;</p>
+        <img src="https://placehold.co/300x200/png?text=USB+Camera" alt="USB Camera" class="img-fluid rounded z-depth-1" style="height: 150px; object-fit: cover; margin-bottom: 15px;">
+        <h5>USB Camera</h5>
+        <p style="font-size: 0.9rem; color: gray;">Real-time Vision Input</p>
     </div>
+
     <div class="col-sm-6 col-md-4 text-center mb-4">
-        <img src="https://placehold.co/300x200/png?text=Touch+Display" alt="Touchscreen LCD & USB Camera" class="img-fluid rounded z-depth-1" style="height: 150px; object-fit: cover; margin-bottom: 15px;">
-        <h5>Touchscreen LCD & USB Cam</h5>
-        <p style="font-size: 0.9rem; color: gray;">Dashboard UI & Vision Input</p>
+        <img src="https://placehold.co/300x200/png?text=Touch+Display" alt="Touchscreen LCD" class="img-fluid rounded z-depth-1" style="height: 150px; object-fit: cover; margin-bottom: 15px;">
+        <h5>Touchscreen LCD</h5>
+        <p style="font-size: 0.9rem; color: gray;">Dashboard UI Interface</p>
     </div>
 </div>
