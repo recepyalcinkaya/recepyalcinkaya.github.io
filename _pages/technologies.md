@@ -62,9 +62,9 @@ description: Hardware, software, and AI stack powering my autonomous systems.
 
 ### ⚡ High Performance Computing
 <div class="d-flex flex-wrap gap-2 mb-4">
-  <span class="badge badge-pill badge-dark" style="font-size: 1rem; padding: 10px 15px;">CUDA</span>
-  <span class="badge badge-pill badge-dark" style="font-size: 1rem; padding: 10px 15px;">cuDNN</span>
-  <span class="badge badge-pill badge-dark" style="font-size: 1rem; padding: 10px 15px;">GPU Acceleration</span>
+  <span class="badge badge-pill" style="font-size: 1rem; padding: 10px 15px; background-color: #795548; color: white;">CUDA</span>
+  <span class="badge badge-pill" style="font-size: 1rem; padding: 10px 15px; background-color: #795548; color: white;">cuDNN</span>
+  <span class="badge badge-pill" style="font-size: 1rem; padding: 10px 15px; background-color: #795548; color: white;">GPU Acceleration</span>
 </div>
 
 ### 📊 Data Processing & Visualization
