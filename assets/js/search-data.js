@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-technologies",
           title: "Technologies",
-          description: "Hardware, software, and AI stack powering my autonomous systems.",
+          description: "Hardware, software, and AI stack powering my ADAS &amp; autonomous systems.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/technologies/";
