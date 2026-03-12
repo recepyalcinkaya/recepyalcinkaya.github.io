@@ -4,7 +4,7 @@ title: Technologies
 permalink: /technologies/
 nav: true
 nav_order: 3
-description: Hardware, software, and AI stack powering my autonomous systems.
+description: Hardware, software, and AI stack powering my ADAS & autonomous systems.
 ---
 
 ### 💻 Programming Languages
@@ -85,7 +85,6 @@ description: Hardware, software, and AI stack powering my autonomous systems.
 ---
 
 ### 📟 Single Board Computers & AI Accelerators
-*The core computing units executing real-time AI and autonomous navigation tasks.*
 
 <div class="row mt-4 mb-5">
     <div class="col-sm-6 col-md-4 text-center mb-4">
@@ -119,7 +118,7 @@ description: Hardware, software, and AI stack powering my autonomous systems.
     <div class="col-sm-6 col-md-4 text-center mb-4">
         <img src="https://placehold.co/300x200/png?text=GIF+Here" alt="Blind Spot Sensor" class="img-fluid rounded z-depth-1" style="height: 150px; object-fit: cover; margin-bottom: 15px;">
         <h5>Blind Spot Sensor</h5>
-        <p style="font-size: 0.9rem; color: gray;">Radar / Lidar</p>
+        <p style="font-size: 0.9rem; color: gray;">&nbsp;</p>
     </div>
     <div class="col-sm-6 col-md-4 text-center mb-4">
         <img src="https://placehold.co/300x200/png?text=Touch+Display" alt="Touchscreen LCD & USB Camera" class="img-fluid rounded z-depth-1" style="height: 150px; object-fit: cover; margin-bottom: 15px;">
