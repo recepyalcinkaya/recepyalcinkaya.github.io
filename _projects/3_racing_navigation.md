@@ -2,6 +2,7 @@
 layout: page
 title: Racing Navigation System
 description: Custom GPS routing and telemetry designed for TEKNOFEST races.
+img: assets/img/navigation.png
 importance: 3
 category: Featured ADAS Projects
 ---
