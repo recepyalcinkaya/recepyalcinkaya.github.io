@@ -114,7 +114,7 @@ description: Hardware, software, and AI stack powering my autonomous systems.
 
 <div class="row mt-4">
     <div class="col-sm-6 col-md-4 text-center mb-4">
-        <img src="/assets/img/gps-modül.jpeg" alt="UBLOX NEO-M8N" class="img-fluid rounded z-depth-1" style="height: 150px; object-fit: cover; margin-bottom: 15px;">
+        <img src="/assets/img/gps-modul.jpeg" alt="UBLOX NEO-M8N" class="img-fluid rounded z-depth-1" style="height: 150px; object-fit: cover; margin-bottom: 15px;">
         <h5>UBLOX NEO-M8N</h5>
         <p style="font-size: 0.9rem; color: gray;">GNSS / GPS Module</p>
     </div>
