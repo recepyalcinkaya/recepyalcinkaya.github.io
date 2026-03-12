@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: A collection of my automotive software, ADAS, and edge AI projects.
 nav: true
