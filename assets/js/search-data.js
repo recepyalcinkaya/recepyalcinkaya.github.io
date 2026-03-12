@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "A collection of my automotive software, ADAS, and edge AI projects.",
           section: "Navigation",
           handler: () => {
