@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Software & ADAS Engineer | Autonomous Vehicles & Edge AI
 
