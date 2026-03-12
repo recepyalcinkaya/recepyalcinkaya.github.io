@@ -2,6 +2,7 @@
 layout: page
 title: Rear-View & Collision Avoidance
 description: Integrated rear monitoring system assisting in parking and reverse maneuvers.
+img: assets/img/geri_gorus.jpg
 importance: 6
 category: Featured ADAS Projects
 ---
