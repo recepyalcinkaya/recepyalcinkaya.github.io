@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Software & ADAS Engineer | Autonomous Vehicles & Edge AI
+subtitle: Computer & ADAS Engineer | Autonomous Vehicles & Edge AI
 
 profile:
   align: right
