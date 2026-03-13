@@ -23,17 +23,15 @@ I currently serve as the Head of the Software Unit and the ADAS & Autonomous Sof
 <h2 style="margin-top: 40px; margin-bottom: 20px;">Certificates & Awards</h2>
 
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        <figure>
-            <img src="/assets/img/teknofest_sertifika.jpg" class="img-fluid rounded z-depth-1" alt="TEKNOFEST Certificate" style="width: 100%; border-radius: 8px;">
+    <div class="col-sm-6 mb-3">
+        <figure class="m-0">
+            <img src="/assets/img/teknofest_sertifika.jpg" class="img-fluid rounded z-depth-1" alt="TEKNOFEST Certificate" style="width: 100%; border-radius: 8px; object-fit: cover;">
         </figure>
     </div>
-</div>
 
-<div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        <figure>
-            <img src="/assets/img/Milli_teknoloji_akademisi_Otonom_surus_uzmanligi_sertifikasi.png" class="img-fluid rounded z-depth-1" alt="Autonomous Driving Technologies Certification - Milli Teknoloji Akademisi" style="width: 100%; border-radius: 8px;">
+    <div class="col-sm-6 mb-3">
+        <figure class="m-0">
+            <img src="/assets/img/Milli_teknoloji_akademisi_Otonom_surus_uzmanligi_sertifikasi.png" class="img-fluid rounded z-depth-1" alt="Autonomous Driving Technologies Certification - Milli Teknoloji Akademisi" style="width: 100%; border-radius: 8px; object-fit: cover;">
         </figure>
     </div>
 </div>
