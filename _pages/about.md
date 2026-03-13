@@ -29,3 +29,11 @@ I currently serve as the Head of the Software Unit and the ADAS & Autonomous Sof
         </figure>
     </div>
 </div>
+
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <figure>
+            <img src="/assets/img/Milli_teknoloji_akademisi_Otonom_surus_uzmanligi_sertifikasi.jpg" class="img-fluid rounded z-depth-1" alt="Autonomous Driving Technologies Certification - Milli Teknoloji Akademisi" style="width: 100%; border-radius: 8px;">
+        </figure>
+    </div>
+</div>
