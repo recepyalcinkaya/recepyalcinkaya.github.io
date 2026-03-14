@@ -9,7 +9,7 @@ profile:
   image: profil.jpeg
   image_circular: true # Fotoğrafın yuvarlak olmasını istersen bunu true yapabilirsin
   more_info: >
-    <p>Denizli, Turkey</p>
+    <p>İzmir, Turkey</p>
 
 news: false
 selected_papers: false
