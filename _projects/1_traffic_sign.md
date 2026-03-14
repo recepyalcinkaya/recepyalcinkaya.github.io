@@ -2,6 +2,7 @@
 layout: page
 title: Traffic Sign Recognition
 description: Real-time traffic sign detection optimized for edge hardware (Raspberry Pi 5).
+img: assets/img/levha.png
 importance: 1
 category: Featured ADAS Projects
 ---
