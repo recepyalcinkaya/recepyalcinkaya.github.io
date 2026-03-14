@@ -11,10 +11,4 @@ A crucial safety mechanism designed to alert the driver of unseen obstacles or v
 
 This system fuses data from ultrasonic sensor to continuously monitor the vehicle’s blind zones. When a potential hazard is detected, it instantly triggers visual warnings on the central dashboard UI, showcasing effective sensor fusion and real-time data processing.
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID?autoplay=1&mute=1&loop=1&playlist=YOUTUBE_VIDEO_ID" allow="autoplay; encrypted-media" allowfullscreen style="width:100%; aspect-ratio: 16/9; border:none; border-radius: 8px;"></iframe>
-        </div>
-    </div>
-</div>
+<img src="/assets/img/kor_nokta.jpeg" alt="Blind spot sensor" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-top: 20px; display: block;">
