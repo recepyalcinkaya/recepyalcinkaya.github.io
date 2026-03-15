@@ -67,7 +67,10 @@ layout: default
     <!-- Social -->
     {% if page.social %}
       <div class="social">
-        <div class="contact-icons">{% social_links %}</div>
+        <div class="contact-icons">
+  {% social_links %}
+  <script>document.querySelectorAll('.contact-icons a[href*=".pdf"]').forEach(link => link.target = '_blank');</script>
+</div>
 
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
