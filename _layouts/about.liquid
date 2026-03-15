@@ -69,7 +69,19 @@ layout: default
       <div class="social">
         <div class="contact-icons">
   {% social_links %}
-  <script>document.querySelectorAll('.contact-icons a[href*=".pdf"]').forEach(link => link.target = '_blank');</script>
+  <script>
+    document.querySelectorAll('.contact-icons a').forEach(link => {
+      // PDF için yeni sekme kuralı
+      if (link.href.includes('.pdf')) link.target = '_blank';
+      
+      // Mail butonu için Gmail kuralı
+      if (link.href.includes('mailto:')) {
+        let email = link.href.replace('mailto:', '');
+        link.href = 'https://mail.google.com/mail/?view=cm&fs=1&to=' + email;
+        link.target = '_blank';
+      }
+    });
+  </script>
 </div>
 
         <div class="contact-note">{{ site.contact_note }}</div>
